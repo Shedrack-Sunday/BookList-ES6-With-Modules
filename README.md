@@ -15,8 +15,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Link](https://shedrack-sunday.github.io/BookList-ES6-With-Modules/)
 
 ## Getting Started
 
