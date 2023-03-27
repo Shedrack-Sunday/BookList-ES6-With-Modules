@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awessom Books
+# Awesome Books
 
 > This repository contains a book store for authors build utilizing ES6 syntax, Modules and Luxon library.
 
